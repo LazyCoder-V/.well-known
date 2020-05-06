@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.mpmkvvcl.upay",
+    "sha256_cert_fingerprints":
+    ["E5:BE:AF:00:FE:32:38:A0:DD:1D:2D:E6:18:73:47:40:E8:AC:4C:8F:57:F7:49:A6:99:80:9F:58:41:EF:BF:03"]
+  }
+}]
